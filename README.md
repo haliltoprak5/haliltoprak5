@@ -81,7 +81,7 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliltoprak5&repo=PROJE-ADI-1&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliltoprak5&repo=quantum-qkd-simulator&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliltoprak5&repo=PROJE-ADI-2&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
