@@ -9,12 +9,10 @@
   <a href="https://www.linkedin.com/in/haliltoprak5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:haliltoprak5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
+</p>---
 
 ## 👨‍💻 About Me
 
@@ -75,4 +73,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliltoprak5&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliltoprak5&repo=PROJE-ADI-1&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=haliltoprak5&repo=PROJE-ADI-2&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haliltoprak5&style=flat-square&color=2F81F7" alt="Profile Views" />
+</p>
